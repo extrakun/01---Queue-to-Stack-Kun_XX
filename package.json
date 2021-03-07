@@ -1,0 +1,15 @@
+{
+  "name": "01-Queue-to-Stack",
+  "version": "1.0.0",
+  "description": "Complete the function `queueToStack` which given a queue, will return a new stack with the elements in the **same order** as the queue. This means, if the queue contains:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
